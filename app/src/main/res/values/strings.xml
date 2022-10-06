@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">chapter5topic4</string>
+    <string name="header_text">Welcome Back Player 1</string>
+    <string name="button_text">LOGIN</string>
+    <string name="image_desc">Languages</string>
+</resources>

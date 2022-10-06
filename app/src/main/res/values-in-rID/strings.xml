@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">chapter5topic4</string>
+    <string name="header_text">Selamat Datang Kembali Pemain 1</string>
+    <string name="button_text">MASUK</string>
+    <string name="image_desc">Bahasa</string>
+</resources>
